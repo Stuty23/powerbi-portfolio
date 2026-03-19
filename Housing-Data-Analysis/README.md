@@ -14,3 +14,7 @@ This project focuses on analyzing housing market data to understand trends in pr
 - Built interactive dashboards to analyze regional performance and pricing trends
 
 ## Dashboard Preview
+
+![Dashboard](dashboard1.png)
+![Dashboard](dashboard2.png)
+![Dashboard](dashboard3.png)
