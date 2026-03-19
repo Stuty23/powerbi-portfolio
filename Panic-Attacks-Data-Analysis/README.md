@@ -14,3 +14,8 @@ This project analyzes behavioral health data to identify patterns in panic attac
 - Used DAX measures to generate percentage-based insights and comparisons
 
 ## Dashboard Preview
+
+![Dashboard](dashboard1.png)
+![Dashboard](dashboard2.png)
+![Dashboard](dashboard3.png)
+![Dashboard](dashboard4.png)
