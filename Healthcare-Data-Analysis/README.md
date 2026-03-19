@@ -13,3 +13,6 @@ This project focuses on analyzing healthcare data to understand trends in admiss
 - Analyzed trends across multiple years
 
 ## Dashboard Preview
+
+![Dashboard](dashboard1.png)
+![Dashboard](dashboard2.png)
