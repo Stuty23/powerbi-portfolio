@@ -16,3 +16,13 @@ This project focuses on analyzing loan data to understand customer behavior, def
 - Developed multi-page reports for detailed business insights
 
 ## Dashboard Preview
+
+![Dashboard](Image1.png)
+![Dashboard](Image2.png)
+![dashboard](Image3.png)
+
+## Key Insights
+
+- Higher loan default rates are observed among unemployed applicants compared to full-time employed individuals, indicating employment status as a key risk factor.
+
+- Loan amounts are higher for people with medium and high credit scores, but people with low credit scores have a higher chance of defaulting.
