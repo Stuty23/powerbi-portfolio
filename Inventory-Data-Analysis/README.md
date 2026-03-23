@@ -7,7 +7,6 @@ This project focuses on analyzing inventory data by integrating multiple data so
 - SQL Server
 - MySQL
 - Power BI
-- DAX (Data Analysis Expressions)
 
 ## Project Workflow
 - Imported inventory and product datasets into SQL Server and MySQL
@@ -27,6 +26,8 @@ This project focuses on analyzing inventory data by integrating multiple data so
 
 ## Dashboard Preview
 
+![Dashboard](Image1.png)
+![Dashboard](Image2.png)
 
 ## Key Learnings
 - Gained experience working with multiple database systems
