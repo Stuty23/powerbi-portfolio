@@ -28,7 +28,7 @@ This project focuses on analyzing sales performance using Power BI Service. The 
 ---
 
 ## Dashboard Preview
-![Dashboard](image1.png)
-![Dashboard](image2.png)
-![Dashboard](image3.png)
+![Dashboard](Image1.png)
+![Dashboard](Image2.png)
+![Dashboard](Image3.png)
 
