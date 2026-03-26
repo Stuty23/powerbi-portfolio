@@ -33,7 +33,6 @@ This project demonstrates a simple end-to-end workflow using Azure SQL Database 
 ##  Dashboard Preview
 ![Dashboard](image1.png)
 ![Dashboard](image2.png)
-![Dashboard](image3.png)
 
 ---
 
