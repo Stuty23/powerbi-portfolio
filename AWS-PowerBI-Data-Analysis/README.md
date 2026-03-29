@@ -25,7 +25,10 @@ This project focuses on building an end-to-end data analysis workflow using AWS 
 - Top Genres  
 
 ## Dashboard Preview
-
+![Dashboard](image1.png)
+![Dashboard](image2.png)
+![Dashboard](image3.png)
+![Dashboard](image4.png)
 
 ## Key Learnings
 - Learned AWS services integration (S3, Glue, Athena)  
